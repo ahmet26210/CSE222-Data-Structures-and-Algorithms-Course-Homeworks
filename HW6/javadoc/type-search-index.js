@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"linkedlist","l":"Customer"},{"p":"linkedlist","l":"DataBase"},{"p":"linkedlist","l":"MainClass"},{"p":"linkedlist","l":"Person"},{"p":"linkedlist","l":"Product"},{"p":"linkedlist","l":"sorting"},{"p":"linkedlist","l":"TraderInterface"},{"p":"linkedlist","l":"Traders"}]
